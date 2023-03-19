@@ -5,7 +5,7 @@ If you are looking for a way to fix #Unity Answers website anonymous bug here is
 
 Step 1: Download a Custom JavaScript executor extension for your browser.
 
-If you use chrome you can use: https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk?hl=en
+For Chrome you can use: https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk?hl=en
 
 Use the code bellow to run on Unity Answers website to replace $$anonymous$$ with "hi".
 Final Result 🤩
